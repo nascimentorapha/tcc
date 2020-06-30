@@ -9,6 +9,8 @@
 * [Resume](#scroll-resume)
 * [Prerequisites](#hammer_and_wrench-prerequisites)
 * [Tutorial](#information_source-tutorial)
+* [Results](#chart_with_upwards_trend-results)
+* [Upgrades](#eyeglasses-upgrades)
 * [License](#memo-license)
 
 ---
@@ -86,7 +88,8 @@ The correlationship between the stock market value variation and the sentiment g
 
 ## :eyeglasses: Upgrades
 
-Feel free to **aprimorate** this project. **We can too review pull requests** with respective informations on the [repository](https://github.com/nascimentorapha/term-paper.git). Best regards, and thank you.
+Feel free to **aprimorate** this project. **We can too review pull requests** with respective informations on the [repository](https://github.com/nascimentorapha/term-paper.git). 
+Best regards, and thank you.
 
 ---
 
