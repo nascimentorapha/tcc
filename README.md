@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/nascimentorapha/term-paper/tree/master/.githubtitle.jpg"/></p>
+<p align="center"><img src="https://github.com/nascimentorapha/term-paper/blob/master/.github/title.JPG"/></p>
 
 # Term Paper - Computer Engineer
 
