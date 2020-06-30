@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/title.jpg"/></p>
+<p align="center"><img src="https://github.com/nascimentorapha/term-paper/tree/master/.githubtitle.jpg"/></p>
 
 # Term Paper - Computer Engineer
 
@@ -29,7 +29,7 @@ First step
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/nascimentorapha/tcc.git
+$ git clone https://github.com/nascimentorapha/term-paper.git
 ```
 Install APIs and import libs
 
